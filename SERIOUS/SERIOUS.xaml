@@ -1,0 +1,69 @@
+﻿<dx:DXWindow
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:dxprg="http://schemas.devexpress.com/winfx/2008/xaml/propertygrid"
+    x:Class="Serious.IHM.SERIOUS"
+    Title="S.E.R.I.O.U.S." Height="700" Width="900" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" Icon="pack://application:,,,/SERIOUS;component/seriousicon.ico" ResizeMode="NoResize"
+    >
+
+    <Grid>
+        <dx:DXTabControl>
+            <dx:DXTabItem Header="Accueil">
+                <Grid Background="Transparent">
+                    <Label Margin="35,10,34,0" VerticalAlignment="Top" Height="52" Content="S.E.R.I.O.U.S." HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="48"/>
+                    <Label Margin="35,78,34,0" VerticalAlignment="Top" Height="52" Content="Système ExpeRt pour Identifier les pOsitions des UtilisateurS" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    <Image x:Name="Joker" Margin="333,135,335,286" MaxHeight="400" MaxWidth="400"/>
+                    <Image x:Name="connectStatus" Margin="35,342,785,231" MaxHeight="48" MaxWidth="48"/>
+                    <Label x:Name="kinectStatus" HorizontalAlignment="Center" Margin="88,342,389,231" Width="391" Content="Connexion Kinect Status" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    <Label Content="Réalisé par le groupe de S3TG3 dans le cadre des projets tutorés" HorizontalAlignment="Left" VerticalAlignment="Top" Height="18" Width="370" FontSize="13" Margin="498,580,0,0"/>
+                    <Label Content="IUT Nice Département Informatique 2015 - 2016" HorizontalAlignment="Left" Width="323" FontSize="15" Margin="0,603,0,0"/>
+                    <Label Content="Chef de projet : Joël CANCELA VAZ" HorizontalAlignment="Left" Width="238" FontSize="15" Margin="630,598,0,0" Height="23" VerticalAlignment="Top"/>
+
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Capture">
+                <Grid>
+                    <Image x:Name="videoImage" Stretch="None" Margin="0,0,228,141"/>
+                    <Canvas Background="Transparent">
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="HipCenter"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="Spine"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="ShoulderCenter"/>
+                        <Ellipse Height="25" Width="15" Fill="yellow" x:Name="Head"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="ShoulderLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Magenta" x:Name="ElbowLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="WristLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="HandLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="ShoulderRight"/>
+                        <Ellipse Height="10" Width="10" Fill="Magenta" x:Name="ElbowRight"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="WristRight"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="HandRight"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="HipLeft"/>
+                        <Ellipse Height="15" Width="10" Fill="Red" x:Name="KneeLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="AnkleLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="FootLeft"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="HipRight"/>
+                        <Ellipse Height="15" Width="10" Fill="Red" x:Name="KneeRight"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="AnkleRight"/>
+                        <Ellipse Height="10" Width="10" Fill="Blue" x:Name="FootRight"/>
+                        <Button Content="Creer Capture" Canvas.Left="720" Canvas.Top="10" Width="138" Click="Button2_Click" RenderTransformOrigin="0.52,0.53"/>
+                        <Button Content="Prendre une position" Canvas.Left="720" Canvas.Top="37" Width="138" Click="Button_Click" RenderTransformOrigin="0.52,0.53"/>
+                        <Label x:Name="idposition" Content="ID position : 0" Canvas.Left="758" Canvas.Top="56" Height="43" Width="100" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center"/>
+                        <Button Content="Stopper Capture" Canvas.Left="720" Canvas.Top="104" Width="138" Click="Button3_Click" RenderTransformOrigin="0.52,0.53"/>
+                    </Canvas>
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem x:Name="DemoTab" Header="Demo">
+                <Grid Background="Transparent">
+                    <Image x:Name="DemoImage" Stretch="None" Margin="0,0,228,141"/>
+                    <Button x:Name="startReco" Content="Commencer Reconnaissance" HorizontalAlignment="Left" Margin="676,134,0,0" VerticalAlignment="Top" Width="182" Height="43" Click="startReco_Click"/>
+                    <Button Content="Choisir Forêt aléatoire" HorizontalAlignment="Left" Margin="676,10,0,0" VerticalAlignment="Top" Width="143" Click="Button_Click_1"/>
+                    <Label x:Name="recolabel" Content="Jeu de données chargé : Aucun" HorizontalAlignment="Left" Margin="676,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.25,-0.25" Height="22" Width="182"/>
+                    <Label x:Name="recoPosition" Content="Aucune position reconnue" HorizontalAlignment="Left" Margin="676,209,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.25,-0.25" Height="22" Width="182"/>
+                    <Button x:Name="stopReco" Content="Stopper Reconnaissance" HorizontalAlignment="Left" Margin="676,259,0,0" VerticalAlignment="Top" Width="182" Height="43" Click="stopReco_Click"/>
+                </Grid>
+            </dx:DXTabItem>
+        </dx:DXTabControl>
+
+    </Grid>
+</dx:DXWindow>
