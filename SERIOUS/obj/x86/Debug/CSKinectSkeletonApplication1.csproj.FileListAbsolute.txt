@@ -1,0 +1,63 @@
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.pdb
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csprojResolveAssemblyReference.cache
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1_MarkupCompile.cache
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.g.resources
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.Properties.Resources.resources
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csproj.GenerateResource.Cache
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.exe
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.pdb
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.exe
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.pdb
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csprojResolveAssemblyReference.cache
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1_MarkupCompile.cache
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.g.resources
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.Properties.Resources.resources
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csproj.GenerateResource.Cache
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe
+F:\PT\PTS3\Récuperation S2T [OK]\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.pdb
+F:\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.exe
+F:\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.pdb
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.pdb
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1_MarkupCompile.cache
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.g.resources
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.Properties.Resources.resources
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csproj.GenerateResource.Cache
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.exe
+C:\Users\SkyFox07\Desktop\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.pdb
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.exe
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.pdb
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.pdb
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csprojResolveAssemblyReference.cache
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1_MarkupCompile.cache
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.g.resources
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.Properties.Resources.resources
+C:\Users\SkyFox07\Desktop\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csproj.GenerateResource.Cache
+F:\PT\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe.config
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe.config
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.exe
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.pdb
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.exe
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\bin\Debug\CSKinectSkeletonApplication1.pdb
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csprojResolveAssemblyReference.cache
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1_MarkupCompile.cache
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.g.resources
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.Properties.Resources.resources
+F:\IUT\PT\PTS3\Dev\CSKinectSkeletonApplication1\CSKinectSkeletonApplication1\obj\x86\Debug\CSKinectSkeletonApplication1.csproj.GenerateResource.Cache
