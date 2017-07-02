@@ -171,14 +171,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SERIOUS.exe" size="57344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SERIOUS.exe" size="107520">
       <assemblyIdentity name="SERIOUS" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Wx/Pw1UQxORquGWpOri4M7gJhBE=</dsig:DigestValue>
+        <dsig:DigestValue>m2AuJRb1OVDELmc3NO83h6GxqLc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
