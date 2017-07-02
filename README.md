@@ -2,7 +2,17 @@
 ### Système ExpeRt pour Identifier les pOsitions des UtilisateurS
 
 Ce projet à été réalisé à l'IUT dans le cadre des projets tutorés.
-L'application a été codée en C# avec l'algorithme de Random Forest d'Alglib.
+L'application a été codée en C# avec l'algorithme de Random Forest d'Alglib et utilise la Kinect.
+
+### Sujet
+
+A l'origine son utilisation était prévue uniquement pour jouer aux jeux vidéo, mais depuis la sortie de son SDK par Microsoft, sa célèbre caméra, la Kinect a été utilisée à d'autres fins.
+
+Son utilisation a notamment était détournée afin de permettre aux personnes à mobilité réduite d'acquérir une certaine autonomie.
+
+Notre projet n’était pas si ambitieux, mais il s’intéressait à une partie très importante de cette possible utilisation, la reconnaissance de positions.
+
+Le but principal de notre projet était de développer une application utilisant un algorithme d'apprentissage automatique (Random Forest ou Forêts aléatoires) capable de détecter les mouvements et en déduire la position dans laquelle l'utilisateur se trouve (par exemple assis ou debout).
 
 ### Fonctionalités
 
